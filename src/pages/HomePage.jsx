@@ -91,6 +91,24 @@ export const GAMES = [
     color: "#F06060",
     bg: "#FFECEC",
   },
+  {
+    id: "Target",
+    name: "Target Tracking Task",
+    owner: "Ruken",
+    url: "https://target-tracking-seven.vercel.app/",
+    emoji: "📈​",
+    color: "#f70776",
+    bg: "#e89da2",
+  },
+  {
+    id: "Typing",
+    name: "Typing Pressure Test",
+    owner: "Ruken",
+    url: "https://typing-pressure-test.vercel.app/",
+    emoji: "💻​",
+    color: "#f6e4ad",
+    bg: "#f6f3a7",
+  },
 ];
 
 export default function HomePage() {
